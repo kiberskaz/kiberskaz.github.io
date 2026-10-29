@@ -16,17 +16,5 @@ const SONGS = [
     description: "Авторская песня проекта Kiberskaz",
     url: "songs/безответная_любовь.mp3",
     cover: "covers/безответная_любовь.png"
-  },
-  {
-    title: "сирень-дребедень",
-    description: "Авторская песня проекта Kiberskaz",
-    url: "songs/сирень-дребедень.mp3",
-    cover: "covers/сирень-дребедень.png"
-  },
-  {
-    title: "работа не волк",
-    description: "Авторская песня проекта Kiberskaz",
-    url: "songs/работа_не_волк.mp3",
-    cover: "covers/работа_не_волк.png"
   }
 ];
